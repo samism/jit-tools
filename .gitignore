@@ -1,4 +1,4 @@
 out/
 src/
-*.iml
-.idea
+workspace.xml
+tasks.xml
